@@ -4,7 +4,7 @@
 ![Example Image](image1.png)
 
 
-assets from:
+Assets from:
 ```shell
 https://www.spriters-resource.com/game_boy_gbc/thelegendofzeldaoracleofages/
 ```

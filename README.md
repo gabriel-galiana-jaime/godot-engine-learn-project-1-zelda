@@ -1,4 +1,4 @@
-# godot-engine-learn-project-1-zelda
+# Godot Engine Learn: Project1 Zelda
  Template with assets and premade configuration to start your game dev journey with easy.
 
 ![Example Image](image1.png)

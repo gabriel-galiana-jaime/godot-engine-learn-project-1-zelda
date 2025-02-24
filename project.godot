@@ -13,7 +13,7 @@ config_version=5
 config/name="godot-engine-learn-project-1-zelda"
 config/features=PackedStringArray("4.3", "Forward Plus")
 run/max_fps=60
-config/icon="res://icon.svg"
+config/icon="res://icon.png"
 
 [autoload]
 
